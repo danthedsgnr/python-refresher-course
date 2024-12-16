@@ -1,2 +1,3 @@
 Hello world
-This is a new line 
+This is a new line
+How you like me now?
